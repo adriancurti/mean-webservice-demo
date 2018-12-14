@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "ds115244.mlab.com",
+    "port": 15244,
+    "url": "",
+    "database": "mean-database",
+    "password": "mean2018",
+    "name": "db",
+    "user": "acurti",
+    "connector": "mongodb",
+    "useNewUrlParser": true
+  }
+}
